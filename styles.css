@@ -674,7 +674,7 @@ main {
       margin-left: 0; 
       margin-top: 1rem;
   }
-}*/
+}
 
 
   .about__container {
@@ -693,7 +693,7 @@ main {
   .footer__container {
     grid-template-columns: repeat(4, 1fr);
   }
-}
+
 
 @media (width > 1024px) {
   .room__grid {
